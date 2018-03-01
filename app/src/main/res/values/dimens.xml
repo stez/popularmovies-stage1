@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spinner_item_padding">5dip</dimen>
+    <dimen name="spinner_item_text_size">14sp</dimen>
+    <dimen name="list_element_poster_image_height">320dp</dimen>
+    <dimen name="bottom_navigation_height">56dp</dimen>
+    <dimen name="title_guideline_vertical">157dp</dimen>
+    <dimen name="title_guideline_horizontal">112dp</dimen>
+    <dimen name="detail_poster_height">200dp</dimen>
+    <dimen name="detail_poster_width">125dp</dimen>
+    <dimen name="backdrop_guideline_vertical">110dp</dimen>
+    <dimen name="detail_portrait_backdrop_height">230dp</dimen>
+</resources>
